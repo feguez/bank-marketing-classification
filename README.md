@@ -10,8 +10,8 @@ The dataset represents a Portuguese bank marketing campaign in which customers w
 
 The target variable is:
 
-- `y = yes` — customer subscribed
-- `y = no` — customer did not subscribe
+- `y = yes` : customer subscribed
+- `y = no` : customer did not subscribe
 
 Because only about 11.7% of customers subscribed, overall accuracy can be misleading. A model can classify most customers as non-subscribers and still achieve high accuracy while identifying very few actual subscribers.
 
@@ -78,8 +78,8 @@ For the baseline analysis, the Decision Tree was selected as the primary interpr
 
 ## Project Files
 
-- [`bank_marketing_classification.ipynb`](bank_marketing_classification.ipynb) — complete Python analysis and modeling workflow
-- [`term_deposit_classification_analysis.pdf`](term_deposit_classification_analysis.pdf) — full written analysis and interpretation
+- [`bank_marketing_classification.ipynb`](bank_marketing_classification.ipynb) : complete Python analysis and modeling workflow
+- [`term_deposit_classification_analysis.pdf`](term_deposit_classification_analysis.pdf) : full written analysis and interpretation
 
 ## Tools
 
