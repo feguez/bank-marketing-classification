@@ -78,8 +78,20 @@ For the baseline analysis, the Decision Tree was selected as the primary interpr
 
 ## Project Files
 
-- [`bank_marketing_classification.ipynb`](bank_marketing_classification.ipynb) : complete Python analysis and modeling workflow
-- [`term_deposit_classification_analysis.pdf`](term_deposit_classification_analysis.pdf) : full written analysis and interpretation
+- [`bank_marketing_classification.ipynb`](bank_marketing_classification.ipynb) - complete Python analysis and modeling workflow
+- [`term_deposit_classification_analysis.pdf`](term_deposit_classification_analysis.pdf) - full written analysis and interpretation
+- [`DATA.md`](DATA.md) - dataset source and reproduction instructions
+- [`requirements.txt`](requirements.txt) - Python package dependencies
+
+## Tools
+
+Python, pandas, NumPy, Matplotlib, scikit-learn
+
+## Data Source
+
+Bank Marketing dataset from the UCI Machine Learning Repository.
+
+The raw dataset is not included in this repository. See [`DATA.md`](DATA.md) for the dataset source, expected file name, and instructions for reproducing the analysis.
 
 ## Tools
 
